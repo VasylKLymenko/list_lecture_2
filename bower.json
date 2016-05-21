@@ -1,0 +1,23 @@
+{
+  "name": "SiteGeneratedByGithubNew",
+  "homepage": "https://github.com/VasylKLymenko/list_lecture_2",
+  "authors": [
+    "Vasyl Klymenko <vasylklymenko@hotmail.com>"
+  ],
+  "description": "my test package",
+  "main": "",
+  "keywords": [
+    "lits"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
